@@ -184,8 +184,8 @@ const _onNavLinkClicked = (linkId) => {
 
 .navbar-brand-img {
     @include generate-dynamic-styles-with-hash((
-        xxxl: (height: 3.4rem, width: 3.4rem),
-        lg:   (height: 3rem, width: 3rem)
+        xxxl: (height: 2.4rem, width: 2.4rem),
+        lg:   (height: 2rem, width: 2rem)
     ));
 
     position: relative;

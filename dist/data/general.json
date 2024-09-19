@@ -4,14 +4,14 @@
     },
 
     "navbar": {
-        "brand": "<span class='text-primary'>Foxy</span> Agency",
+        "brand": "<span class='text-primary'>Nadtawat Jitaree</span>",
         "logo": "images/logo/agency-logo-small.png"
     },
 
     "header": {
-        "title": "Foxy Agency Template",
+        "title": "Nadtawat Jitaree",
         "subtitle": "Made by Ryan Balieiro with Vue3 and Bootstrap 5.0",
-        "imageUrl": "images/logo/agency-logo.png",
+        "imageUrl": "images/logo/nan.png",
         "button": {
             "label": "Find Out More",
             "icon": "fa fa-search",

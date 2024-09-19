@@ -7,7 +7,7 @@
                 <div class="service-item mb-lg-4">
                     <!-- Icon -->
                     <div class="service-icon-wrapper">
-                        <CircleIcon :fa-icon="item['faIcon']"/>
+                        <CircleIcon :fa-icon="item['faIcon']"></CircleIcon>
                     </div>
 
                     <!-- Content -->
@@ -34,6 +34,7 @@ const props = defineProps({
 </script>
 
 <style lang="scss" scoped>
+
 @import "/src/scss/_theming.scss";
 
 .service-item {

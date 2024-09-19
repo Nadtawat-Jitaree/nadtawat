@@ -1,7 +1,7 @@
 <template>
     <!-- Icon Stack -->
     <span class="icon-stack fa-stack">
-        <i class="fas fa-circle fa-stack-2x text-primary"/>
+        <i class="fas fa-circle fa-stack-2x text-white"/>
         <i class="fa-stack-1x fa-inverse" :class="props.faIcon"/>
     </span>
 </template>
@@ -17,6 +17,7 @@ const props = defineProps({
 
 <style lang="scss" scoped>
 @import "/src/scss/_theming.scss";
+
 
 .icon-stack {
     @include generate-dynamic-styles-with-hash((

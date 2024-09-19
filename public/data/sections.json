@@ -8,35 +8,27 @@
                 "label": "About",
                 "faIcon": "fa-solid fa-file"
             },
-
             "headline": {
-                "title": "<span class='text-primary'>About</span> Template",
-                "subtitle": "Get to know more about the project!"
+                "title": "<span class='text-primary'>เหตุผลที่อยากเข้า</span>",
+                "subtitle": "เหตุผลที่อยากเข้า มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี สาขาเทคโนโลยีสารสนเทศ"
             },
-
             "items": [
                 {
-                    "imageUrl": "images/logo/agency-logo.png",
+                    "imageUrl": "images/logo/nan.png",
                     "description": [
-                        "<b>Ryan Balieiro</b> created the Foxy Agency Template, a free Vue3 & Bootstrap 5.0 theme. The downloadable files consist of the entire source code, including HTML, CSS, and Javascript. Please feel free to download and customize the theme as you wish.",
-                        "The template available on <a href='github.com'>GitHub</a> is a valuable resource for developers, as it provides a free and accessible solution for various projects. Hosted on the platform, the template allows users to easily access and utilize the source code, making it a convenient starting point for web development endeavors.",
-                        "With this template, you have the freedom to create custom sections, fill pre-existing ones with your own content, and personalize the colors, fonts, and much more to your liking. In case you encounter any challenges while attempting to customize or run this template, please feel free to reach out to me without any hesitation. I would be more than happy to extend my assistance and help you out in every possible way."
+                        "ผมมีความสนใจในสาขาวิชาเทคโนโลยีสารสนเทศอย่างมาก ตั้งแต่ได้เรียนในระดับ ปวช. สาขาเทคโนโลยีสารสนเทศ และพบว่าผมมีความชื่นชอบในการเขียนโปรแกรมและต้องการต่อยอดความรู้เพื่อประกอบอาชีพในอนาคต",
+                        "ผมเคยมีประสบการณ์ในการพัฒนาเว็บไซต์เกี่ยวกับการท่องเที่ยวในอำเภอบ้านเกิดโดยใช้ Vue.js โดยมีเป้าหมายให้เว็บไซต์ติดอันดับหนึ่งในการค้นหาด้วย SEO ผ่านการใช้คีย์เวิร์ด 'คาเฟ่ในอำเภอปัว' ซึ่งประสบความสำเร็จ ทำให้เกิดแรงบันดาลใจในการเรียนต่อในสาขานี้",
+                        "นอกจากนี้ผมได้ฝึกงานที่บริษัทเขียนโปรแกรมและพัฒนาแอพพลิเคชันแห่งหนึ่งในจังหวัดน่านซึ่งทำให้ผมมีโอกาสเรียนรู้เกี่ยวกับ Vue.js และ Java Spring Boot ได้ฝึกทักษะการทำงานเป็นทีมและเข้าใจการทำงานของแต่ละแผนก ซึ่งเป็นประสบการณ์ที่มีคุณค่าและเป็นพื้นฐานสำคัญในการศึกษาต่อ",
+                        "ผมมีทักษะด้านโปรแกรมมิ่งที่สอดคล้องกับสาขาวิชานี้ ได้แก่ HTML,CSS,JavaScript,Node.js,Vue.js,Python,PHP,PostgreSQL และการใช้ Bootstrap,Git,MySQL และการสร้าง REST API ใน Java Spring Boot รวมถึงการใช้ Vue.js ร่วมกับ Axios ในการดึง API มาใช้งาน อีกทั้งยังมีทักษะการใช้ซอฟต์แวร์ที่เกี่ยวข้อง ได้แก่ Postman,DBeaver,XAMPP,Figma",
+                        "ด้วยความรู้และประสบการณ์เหล่านี้ผมเชื่อว่าการศึกษาต่อในสาขาเทคโนโลยีสารสนเทศที่มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรีจะช่วยให้ผมสามารถพัฒนาทักษะและความสามารถของตนเองให้ก้าวหน้าไปได้อย่างมีประสิทธิภาพ และเป็นก้าวสำคัญในการประกอบอาชีพในอนาคต"
                     ]
                 }
             ],
-
             "footer": {
-                "divider": true,
-                "title": "Get it for <span class='text-primary'>free!</span>",
-                "description": "Do you want to use and/or customize this template? Feel free to clone it from the official Github repo!",
-                "smallDescription": false,
-                "button": {
-                    "label": "Download Now!",
-                    "faIcon": "fa-solid fa-download"
-                }
+                "title": "คณะเทคโนโลยีสารสนเทศ <span class='text-primary'>สาขาวิชาเทคโนโลสีสารสนเทศ</span>",
+                "smallDescription": false
             }
         },
-
         {
             "id": "services",
             "component": "ServicesSection",
@@ -45,55 +37,74 @@
                 "label": "Services",
                 "faIcon": "fa-solid fa-wrench"
             },
-
             "headline": {
-                "title": "Our <span class='text-primary'>Services</span>",
-                "subtitle": "This section can be used to describe what you offer!"
+                "title": "Programming <span class='text-primary'>Skill</span>",
+                "subtitle": "ความสามารถด้านโปรแกรมมิ่งของผม"
             },
-
-            "items":  [
+            "items": [
                 {
-                    "title": "Vue3",
-                    "faIcon": "fa-brands fa-vuejs",
-                    "description": "This template is built using the Vue3 JavaScript framework, providing a modern and efficient development experience."
+                    "title": "Java Script",
+                    "faIcon": "devicon-javascript-plain colored",
+                    "description": "ผมได้ศึกษา Java Scrip ด้วยตนเอง และได้นำมาต่อยอดในการใช้งานจริงที่ฝึกงานบริษัทเขียนโปรแกรมแห่งหนึ่งในจัวหวัดน่าน โดยทั้งการใช้ FRAMEWORK และร่วมกับการเรียกใช้ API"
                 },
-
                 {
-                    "title": "Responsive Design",
-                    "faIcon": "fa-solid fa-laptop",
-                    "description": "This template is designed to adapt seamlessly to various screen sizes, providing a consistent user experience across devices."
+                    "title": "HTML",
+                    "faIcon": "devicon-html5-plain-wordmark colored",
+                    "description": "เป็นพื้นฐานที่เริ่มเรียนจากที่โรงเรียนและฝึกเพิ่มเติมด้วยการศึกษาด้วยตนเอง นำมาฝึกทำโปรเจคเล่นๆ Single Page ร่วมกับ CSS จนเชี่ยวชาญ"
                 },
-
                 {
-                    "title": "Minimalist",
-                    "faIcon": "fa-solid fa-wand-magic",
-                    "description": "This template features a clean and simple design, with a focus on essential elements, resulting in a modern and elegant look."
+                    "title": "CSS",
+                    "faIcon": "devicon-css3-plain-wordmark colored",
+                    "description": "ศึกษาด้วยตนเอง รวมไปถึงการใช้ Grid Flex ต่างๆ นำมาฝึกทำโปรเจคเล่นๆ Single Page ร่วมกับ HTML จนเชี่ยวชาญ และนำความรู้เหล่านี้ไปต่อยอดทำเว็บไซต์ของตัวเองโดย Hard Code ในการแก้ไขข้อมูลหน้าต่างๆ"
                 },
-
                 {
-                    "title": "Fully Customizable",
-                    "faIcon": "fa-solid fa-hand-sparkles",
-                    "description": "This template can be easily customized to match your brand's visual identity and requirements, giving you full control over the design and functionality."
+                    "title": "PHP",
+                    "faIcon": "devicon-php-plain colored",
+                    "description": "ศึกษาด้วยตนเอง โดยต้องศึกษาเพื่อนำไปแข่งขันการเขียนโปรแกรมในระดับชั้นปวช. โดยสามารถเขียน Pure PHP ได้ แต่ไม่ถึงขั้นเขียน OOP ได้รวมถึง FRAMEWORK ที่เกียวกับ PHP ตอนไปแข่งขัน เขาห้ามใช้  Extension ใน Vs Code และ ห้ามใช้ FRAMEWORK ยกเว้น Bootstrap"
                 },
-
                 {
-                    "title": "Open Source",
-                    "faIcon": "fa-solid fa-code",
-                    "description": "This template is open-source, meaning the code is publicly accessible and can be modified or redistributed without restrictions."
+                    "title": "JAVA",
+                    "faIcon": "devicon-java-plain-wordmark colored",
+                    "description": "ศึกษาด้วยตนเอง เพื่อเตรียมความพร้อมสำหรับการฝึกงาน Backend ที่จะไปฝึกงานใช้ Spring Boot ในการทำ REST API จึงเรียนพื้นฐานภาษา Java มาเพื่อเตรียมความพร้อม"
                 },
-
                 {
-                    "title": "Lightweight",
-                    "faIcon": "fa-solid fa-feather",
-                    "description": "This template is optimized for performance and speed, with a minimal codebase and minimal dependencies, resulting in a faster load time and improved user experience."
+                    "title": "Bootstrap",
+                    "faIcon": "devicon-bootstrap-plain-wordmark colored",
+                    "description": "เป็น FRAMEWORK แรกที่ได้ศึกษาด้วยตนเอง นำมาใช้ร่วมกับ PHP ในการแข่งขัน โดยนำมาช่วยตกแต่ง UI ได้ง่าย โดยไม่จำเป็นต้องเขียน CSS ด้วยตนเองเยอะ"
+                },
+                {
+                    "title": "Vue Js",
+                    "faIcon": "devicon-vuejs-plain-wordmark colored",
+                    "description": "เป็น FRAMEWORK ที่ได้ศึกษาด้วยตนเอง และได้ลองนำมาทำโปรเจคเว็บไซต์ Single Page ของตัวเอง เป็นเว็บไซต์เกี่ยวกับการส่งเสริมการท่องเที่ยว คาเฟ่ในอำเภอปัว"
+                },
+                {
+                    "title": "Vuetify",
+                    "faIcon": "devicon-vuetify-plain colored",
+                    "description": "เป็น UI FRAMEWORK ที่ได้ศึกษาด้วยตนเองและได้รับคำแนะนำจากพี่ที่ฝึกงาน ในการมาทำหน้าตา UI ต่างๆและเรียกใช้ API เส้นต่างๆจาก Spring boot โดยได้นำความรู้มาช่วยทำโปรเจคให้บริษัทที่ฝึกงาน"
+                },
+                {
+                    "title": "React",
+                    "faIcon": "devicon-react-original-wordmark colored",
+                    "description": "เป็น FRAMEWORK ที่ได้ศึกษาด้วยตนเองเนื่องจากสงสัยว่าประสิทธิภาพและการทำ SEO ดีกว่า Vue Js หรือไม่ เลยทำโปรเจคเว็บไซต์ Single Page เกี่ยวกับวัดในอำเภอปัวมาเปรียบเทียบ"
+                },
+                {
+                    "title": "Spring Boot",
+                    "faIcon": "devicon-spring-original-wordmark colored",
+                    "description": "เป็น FRAMEWORK ที่ได้ความรู้จากที่ฝึกงาน โดยได้มีความรู้พื้นฐานของ Java มาแล้วจึงเรียนรู้การสร้าง Class และทำ API เส้นต่างๆได้ง่าย โดยมีความรู้ทั้งการทำ Entity Controller Service Repository และการสร้าง Model การทำรายงาน export ออกมาเป็น pdf และอื่นๆ"
+                },
+                {
+                    "title": "MYSQL",
+                    "faIcon": "devicon-mysql-plain-wordmark colored",
+                    "description": "เป็นภาษาโปรแกรมมิ่งที่ได้เรียนรู้จากโรงเรียนและศึกษาเพิ่มเติมด้วยตนเอง และได้นำมาใช้ร่วมกับ PHP ในการแข่งขันการเขียนโปรแกรมคอมพิวเตอร์ และได้นำมาใช้ร่วมกับ Repository ใน Spring boot เพื่อใช้คำสั่ง SQL ประกอบการทำเส้น API ต่างๆ"
+                },
+                {
+                    "title": "GIT",
+                    "faIcon": "devicon-git-plain-wordmark colored",
+                    "description": "เป็น VCS มาใช้ในการ push ขึ้น Github เพื่ออัพเดตโปรเจคต่างๆ"
                 }
             ],
-
-            "footer": {
-
-            }
+            "footer": {}
         },
-
         {
             "id": "history",
             "component": "HistorySection",
@@ -102,12 +113,10 @@
                 "label": "History",
                 "faIcon": "fa-solid fa-clock"
             },
-
             "headline": {
                 "title": "Our <span class='text-primary'>History</span>",
                 "subtitle": "Unlocking the secrets of our past!"
             },
-
             "items": [
                 {
                     "title": "Our Founding",
@@ -140,12 +149,8 @@
                     "imageUrl": "images/history/history-5.png"
                 }
             ],
-
-            "footer": {
-
-            }
+            "footer": {}
         },
-
         {
             "id": "featured",
             "class": "agency-section-featured",
@@ -154,31 +159,36 @@
                 "label": "Zork",
                 "faIcon": "fa-solid fa-bolt"
             },
-
-            "headline": {
-
-            },
-
-            "items":  [
+            "headline": {},
+            "items": [
                 {
                     "title": "<span class='text-primary'>Zork</span> App",
                     "category": "Utilities",
                     "description": "<b>Zork</b> is your ultimate battery life management app, empowering you to seize control of your device's energy consumption effortlessly. With its intuitive interface, Zork provides real-time monitoring of battery status, enabling you to identify power-draining apps and processes. Optimizing your device's settings becomes a breeze as Zork offers personalized recommendations to extend battery life without compromising performance.",
                     "imageUrl": "images/portfolio/project-logo-8.png",
-                    "tags": ["app", "battery", "save"],
+                    "tags": [
+                        "app",
+                        "battery",
+                        "save"
+                    ],
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://windows.com"}
+                        {
+                            "faIcon": "fa-brands fa-apple",
+                            "href": "https://apple.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-google-play",
+                            "href": "https://googleplay.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-windows",
+                            "href": "https://windows.com"
+                        }
                     ]
                 }
             ],
-
-            "footer": {
-
-            }
+            "footer": {}
         },
-
         {
             "id": "portfolio",
             "component": "PortfolioSection",
@@ -187,118 +197,218 @@
                 "label": "Portfolio",
                 "faIcon": "fa-solid fa-camera"
             },
-
             "headline": {
                 "title": "A Rich <span class='text-primary'>Portfolio</span>",
                 "subtitle": "Get to know our amazing projects!"
             },
-
             "items": [
                 {
                     "title": "SmartCash",
                     "category": "Utilities",
                     "description": "<b>SmartCash</b> is your smart companion for personal finance, empowering you to take control of your money effortlessly. With its user-friendly interface, SmartCash provides real-time tracking of your expenses and income, enabling you to identify spending patterns and make informed financial decisions. Stay on top of your budget as SmartCash offers personalized recommendations to save money and achieve your financial goals without compromising your lifestyle.",
                     "imageUrl": "images/portfolio/project-logo-1.png",
-                    "tags": ["app", "finance", "money", "budget"],
+                    "tags": [
+                        "app",
+                        "finance",
+                        "money",
+                        "budget"
+                    ],
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://windows.com"}
+                        {
+                            "faIcon": "fa-brands fa-apple",
+                            "href": "https://apple.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-google-play",
+                            "href": "https://googleplay.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-windows",
+                            "href": "https://windows.com"
+                        }
                     ]
                 },
-
                 {
                     "title": "Snappy",
                     "category": "Utilities",
                     "description": "<b>Snappy</b> is your ultimate photography app, empowering you to capture and edit stunning images effortlessly. With its intuitive interface, Snappy provides a wide range of powerful tools and filters to enhance your photos and bring out your creativity. Whether you're a professional photographer or just a hobbyist, Snappy offers features like manual controls, advanced editing options, and AI-powered enhancements to take your photography to the next level.",
                     "imageUrl": "images/portfolio/project-logo-2.png",
-                    "tags": ["app", "photography", "camera"],
+                    "tags": [
+                        "app",
+                        "photography",
+                        "camera"
+                    ],
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com"}
+                        {
+                            "faIcon": "fa-brands fa-apple",
+                            "href": "https://apple.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-google-play",
+                            "href": "https://googleplay.com"
+                        }
                     ]
                 },
-
                 {
                     "title": "BrainPulse",
                     "category": "Utilities",
                     "description": "<b>BrainPulse</b> is your ultimate brain training app, empowering you to boost cognitive abilities effortlessly. With its engaging interface, BrainPulse offers a variety of stimulating games and exercises designed to enhance memory, attention, problem-solving, and more. Track your progress and challenge yourself to reach new mental heights with personalized training programs tailored to your specific needs and goals.",
                     "imageUrl": "images/portfolio/project-logo-3.png",
-                    "tags": ["app", "brain", "training"],
+                    "tags": [
+                        "app",
+                        "brain",
+                        "training"
+                    ],
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://windows.com"}
+                        {
+                            "faIcon": "fa-brands fa-apple",
+                            "href": "https://apple.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-google-play",
+                            "href": "https://googleplay.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-windows",
+                            "href": "https://windows.com"
+                        }
                     ]
                 },
-
                 {
                     "title": "Stackers",
                     "category": "Productivity",
                     "description": "<b>Stackers</b> is your ultimate productivity app, empowering you to stay organized and focused effortlessly. With its intuitive and streamlined interface, Stackers offers a variety of tools to help you manage tasks, notes, and projects effectively. Create to-do lists, set reminders, and collaborate with teammates to achieve your goals seamlessly. Take control of your time and boost your productivity with Stackers as your reliable productivity companion.",
                     "imageUrl": "images/portfolio/project-logo-6.png",
-                    "tags": ["app", "productivity", "organization", "tasks"],
+                    "tags": [
+                        "app",
+                        "productivity",
+                        "organization",
+                        "tasks"
+                    ],
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://windows.com"},
-                        {"faIcon": "fa-brands fa-amazon", "href": "https://amazon.com"}
+                        {
+                            "faIcon": "fa-brands fa-apple",
+                            "href": "https://apple.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-google-play",
+                            "href": "https://googleplay.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-windows",
+                            "href": "https://windows.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-amazon",
+                            "href": "https://amazon.com"
+                        }
                     ]
                 },
-
                 {
                     "title": "Find-A-Goalie",
                     "category": "Utilities",
                     "description": "<b>Find-A-Goalie</b> is your go-to app for finding goalkeepers to join your casual soccer matches. With its simple and efficient interface, Goalkeeper Finder connects players and goalkeepers in your local area, making it easy to organize matches and build a reliable team. Say goodbye to match cancellations due to lack of goalkeepers and enjoy the beautiful game with newfound teammates.",
                     "imageUrl": "images/portfolio/project-logo-4.png",
-                    "tags": ["app", "sports", "soccer", "goalkeeper"],
+                    "tags": [
+                        "app",
+                        "sports",
+                        "soccer",
+                        "goalkeeper"
+                    ],
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://windows.com"}
+                        {
+                            "faIcon": "fa-brands fa-apple",
+                            "href": "https://apple.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-google-play",
+                            "href": "https://googleplay.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-windows",
+                            "href": "https://windows.com"
+                        }
                     ]
                 },
-
                 {
                     "title": "Sweet Scoops",
                     "category": "Social",
                     "description": "<b>Sweet Scoops</b> is your delightful companion for exploring the world of ice creams. With its mouthwatering interface, SweetScoops offers a wide selection of ice cream flavors, recipes, and unique combinations to tickle your taste buds. Whether you're an ice cream enthusiast or a connoisseur, SweetScoops allows you to discover new flavors, find nearby ice cream parlors, and even create your personalized ice cream masterpieces.",
                     "imageUrl": "images/portfolio/project-logo-5.png",
-                    "tags": ["app", "food", "ice cream", "dessert"],
+                    "tags": [
+                        "app",
+                        "food",
+                        "ice cream",
+                        "dessert"
+                    ],
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://windows.com"}
+                        {
+                            "faIcon": "fa-brands fa-apple",
+                            "href": "https://apple.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-google-play",
+                            "href": "https://googleplay.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-windows",
+                            "href": "https://windows.com"
+                        }
                     ]
                 },
-
                 {
                     "title": "MailM8",
                     "category": "Productivity",
                     "description": "<b>MailM8</b> is your reliable mailing app, empowering you to manage your emails efficiently. With its sleek and user-friendly interface, MailM8 offers features like intuitive organization, smart filters, and seamless integration with other productivity tools. Stay on top of your inbox, draft emails effortlessly, and boost your productivity with MailM8 as your trusty email companion.",
                     "imageUrl": "images/portfolio/project-logo-7.png",
-                    "tags": ["app", "mail", "email", "productivity"],
+                    "tags": [
+                        "app",
+                        "mail",
+                        "email",
+                        "productivity"
+                    ],
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://windows.com"},
-                        {"faIcon": "fa-brands fa-chrome", "href": "https://chrome.com"}
+                        {
+                            "faIcon": "fa-brands fa-apple",
+                            "href": "https://apple.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-google-play",
+                            "href": "https://googleplay.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-windows",
+                            "href": "https://windows.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-chrome",
+                            "href": "https://chrome.com"
+                        }
                     ]
                 },
-
                 {
                     "title": "RockVerse",
                     "category": "Social",
                     "description": "<b>RockVerse</b> is your gateway to a mesmerizing world of rock 'n roll, empowering you to immerse yourself in the essence of rock effortlessly. With its dynamic and immersive interface, RockVerse offers an extensive library of iconic rock songs, legendary albums, and captivating rock artists. Unearth rare footage, delve into the history of rock, and experience mind-blowing live performances of your favorite bands. Connect with a vibrant community of rock enthusiasts, share your playlists, and embark on a legendary musical journey with RockVerse as your ultimate rock music haven.",
                     "imageUrl": "images/portfolio/project-logo-9.png",
-                    "tags": ["app", "rock", "music", "bands"],
+                    "tags": [
+                        "app",
+                        "rock",
+                        "music",
+                        "bands"
+                    ],
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com"}
+                        {
+                            "faIcon": "fa-brands fa-apple",
+                            "href": "https://apple.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-google-play",
+                            "href": "https://googleplay.com"
+                        }
                     ]
                 }
             ],
-
             "footer": {
                 "divider": true,
                 "title": "Work with us and <span class='text-primary'>save money!</span>",
@@ -311,7 +421,6 @@
                 }
             }
         },
-
         {
             "id": "team",
             "component": "TeamSection",
@@ -320,12 +429,10 @@
                 "label": "Team",
                 "faIcon": "fa-solid fa-user"
             },
-
             "headline": {
                 "title": "Our <span class='text-primary'>Team</span>",
                 "subtitle": "Meet the main characters of our amazing crew!"
             },
-
             "items": [
                 {
                     "title": "Jonathan Moore",
@@ -333,75 +440,111 @@
                     "description": "CEO",
                     "quote": "With over 20 years of experience in international development, I've dedicated my career to creating sustainable solutions for communities in need.",
                     "links": [
-                        {"faIcon": "fa-brands fa-twitter", "href": "https://twitter.com"},
-                        {"faIcon": "fa-brands fa-instagram", "href": "https://instagram.com"},
-                        {"faIcon": "fa-brands fa-linkedin", "href": "https://linkedin.com"}
+                        {
+                            "faIcon": "fa-brands fa-twitter",
+                            "href": "https://twitter.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-instagram",
+                            "href": "https://instagram.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-linkedin",
+                            "href": "https://linkedin.com"
+                        }
                     ]
                 },
-
                 {
                     "title": "Alicia Cole",
                     "imageUrl": "images/avatars/person-2.png",
                     "description": "Marketing Analist",
                     "quote": "With my expertise in market research and consumer behavior, I help businesses make strategic decisions that drive growth and enhance overall customer satisfaction.",
                     "links": [
-                        {"faIcon": "fa-brands fa-twitter", "href": "https://twitter.com"},
-                        {"faIcon": "fa-brands fa-linkedin", "href": "https://linkedin.com"}
+                        {
+                            "faIcon": "fa-brands fa-twitter",
+                            "href": "https://twitter.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-linkedin",
+                            "href": "https://linkedin.com"
+                        }
                     ]
                 },
-
                 {
                     "title": "Sofia Kondakova",
                     "imageUrl": "images/avatars/person-3.png",
                     "description": "Lead Developer",
                     "quote": "With a proven track record of creating complex software systems, I bring a wealth of technical expertise to the table.",
                     "links": [
-                        {"faIcon": "fa-brands fa-twitter", "href": "https://twitter.com"},
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com"},
-                        {"faIcon": "fa-brands fa-linkedin", "href": "https://linkedin.com"}
+                        {
+                            "faIcon": "fa-brands fa-twitter",
+                            "href": "https://twitter.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-github",
+                            "href": "https://github.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-linkedin",
+                            "href": "https://linkedin.com"
+                        }
                     ]
                 },
-
                 {
                     "title": "Jiang Xi",
                     "imageUrl": "images/avatars/person-4.png",
                     "description": "Product Manager",
                     "quote": "Leading diverse teams with strategic vision, I drive customer-centric solutions, fostering innovation and delivering real value to the market.",
                     "links": [
-                        {"faIcon": "fa-brands fa-instagram", "href": "https://instagram.com"},
-                        {"faIcon": "fa-brands fa-facebook", "href": "https://facebook.com"},
-                        {"faIcon": "fa-brands fa-linkedin", "href": "https://linkedin.com"}
+                        {
+                            "faIcon": "fa-brands fa-instagram",
+                            "href": "https://instagram.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-facebook",
+                            "href": "https://facebook.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-linkedin",
+                            "href": "https://linkedin.com"
+                        }
                     ]
                 },
-
                 {
                     "title": "Travis Jones",
                     "imageUrl": "images/avatars/person-5.png",
                     "description": "CFO",
                     "quote": "Guiding financial growth, I ensure stability through meticulous planning and risk management. Empowering the team to seize opportunities, we achieve lasting success.",
                     "links": [
-                        {"faIcon": "fa-brands fa-instagram", "href": "https://instagram.com"},
-                        {"faIcon": "fa-brands fa-linkedin", "href": "https://linkedin.com"}
+                        {
+                            "faIcon": "fa-brands fa-instagram",
+                            "href": "https://instagram.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-linkedin",
+                            "href": "https://linkedin.com"
+                        }
                     ]
                 },
-
                 {
                     "title": "Aaron Friedrich",
                     "imageUrl": "images/avatars/person-6.png",
                     "description": "Information Security Officer",
                     "quote": "Safeguarding valuable data is my mission. As a vigilant CISO, I proactively secure the digital landscape, assuring the trust of customers and partners with cutting-edge measures.",
                     "links": [
-                        {"faIcon": "fa-brands fa-instagram", "href": "https://instagram.com"},
-                        {"faIcon": "fa-brands fa-linkedin", "href": "https://linkedin.com"}
+                        {
+                            "faIcon": "fa-brands fa-instagram",
+                            "href": "https://instagram.com"
+                        },
+                        {
+                            "faIcon": "fa-brands fa-linkedin",
+                            "href": "https://linkedin.com"
+                        }
                     ]
                 }
             ],
-
-            "footer": {
-
-            }
+            "footer": {}
         },
-
         {
             "id": "reviews",
             "component": "ReviewsSection",
@@ -410,13 +553,11 @@
                 "label": "Reviews",
                 "faIcon": "fa-solid fa-comment"
             },
-
             "headline": {
                 "title": "Client <span class='text-primary'>Reviews</span>",
                 "subtitle": "What people say about us!"
             },
-
-            "items":  [
+            "items": [
                 {
                     "title": "Spotify",
                     "imageUrl": "images/clients/client-spotify.svg",
@@ -448,12 +589,8 @@
                     "description": "John Suarez - Tech Analyst"
                 }
             ],
-
-            "footer": {
-
-            }
+            "footer": {}
         },
-
         {
             "id": "faq",
             "component": "FaqSection",
@@ -462,41 +599,32 @@
                 "label": "Q&A",
                 "faIcon": "fa-solid fa-question-circle"
             },
-
             "headline": {
                 "title": "Questions and <span class='text-primary'>Answers</span>",
                 "subtitle": "Quick answers to your queries!"
             },
-
             "items": [
                 {
                     "title": "How do I customize the content of the template?",
                     "description": "To customize the content, you'll need to modify the <i>agency.json</i> and the <i>sections.json</i> files, which are located in the <i>data</i> folder within the <i>public</i> directory. These JSON files contain the necessary data for the template, allowing you to change texts, images, links, and other elements as per your requirements. Make sure to follow the provided structure to avoid any formatting issues. Additionally, if you need to add new sections or make more extensive changes, you may need to work with the Vue components and other files within the template's structure."
-
                 },
-
                 {
                     "title": "Can I expect the template to be responsive and work well on mobile devices?",
                     "description": "Absolutely! The template is designed with responsiveness in mind, ensuring that it adapts to various screen types and sizes, including mobile devices. The use of responsive design techniques like media queries and flexible layout ensures that the template looks and functions well on smartphones, tablets, and other mobile devices. During customization, make sure to preview the template on different screen sizes and devices to ensure it displays correctly. If you encounter any issues, you can adjust the CSS styles or layout accordingly to improve the mobile experience further."
                 },
-
                 {
                     "title": "How can I enable the functionality of the contact form?",
                     "description": "Integrating the contact form requires implementing your own server-side logic. Please note that the current template only includes the client-side implementation. You'll need to set up a backend server to handle form submissions, process data, and send emails or perform other actions as needed. Ensure that the server-side code is secure to prevent potential security vulnerabilities. On the frontend, you can link the form submission to your backend endpoints using JavaScript. Keep in mind that specific steps may vary based on your backend technology and preferences."
-
                 },
-
                 {
                     "title": "What steps should I follow to add a new section to the theme?",
                     "description": "Adding a new section to the theme involves a few steps. First, create a new Vue component for it in the <i>sections</i> folder. Use the existing components as a reference to maintain consistency with the template's design and functionality. Next, within the <i>public/data/sections.json</i> file, create an item for the new section, where you can define all the necessary data such as texts, links, and other information. After completing these steps, your new section should be fully integrated into the theme."
-
                 }
             ],
-
             "footer": {
                 "divider": false,
-                "title": "<span class='text-primary'>Save time</span> with Foxy Agency Template!",
-                "description": "Foxy Agency Template beautifully and intuitively extends the Vue and Bootstrap frameworks making it easy to build your next project!",
+                "title": "<span class='text-primary'>Save time</span> with Nadtawat Jitaree Template!",
+                "description": "Nadtawat Jitaree Template beautifully and intuitively extends the Vue and Bootstrap frameworks making it easy to build your next project!",
                 "smallDescription": true,
                 "button": {
                     "label": "Download Now!",
@@ -505,7 +633,6 @@
                 }
             }
         },
-
         {
             "id": "contact",
             "component": "ContactSection",
@@ -514,15 +641,11 @@
                 "label": "Contact",
                 "faIcon": "fa-solid fa-envelope"
             },
-
             "headline": {
                 "title": "Contact Us",
                 "subtitle": "Don't hesitate to reach us out!"
             },
-
-            "footer": {
-
-            }
+            "footer": {}
         }
     ]
 }

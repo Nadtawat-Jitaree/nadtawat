@@ -84,6 +84,9 @@ const _onButtonClick = () => {
     .img-logo {
         height: var(--logo-proportion);
         width: var(--logo-proportion);
+        margin-bottom: -40px;
+        padding-bottom: 0;
+        z-index: -1;
     }
 
     h1.heading {

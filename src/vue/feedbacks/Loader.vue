@@ -9,7 +9,7 @@
         <!-- Loader Content -->
         <div class="loader-full-screen-content" v-show="didReachStep(Steps.SHOWING_LOGO)">
             <!-- Logo -->
-            <ImageView  :src="'images/logo/agency-logo-small.png'"
+            <ImageView  :src="'images/logo/SIT_logo.png'"
                         :alt="'Preloader Logo'"
                         :ignore-on-image-count="true"
                         ref="uiLogo"

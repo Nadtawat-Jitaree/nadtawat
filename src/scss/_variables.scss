@@ -5,12 +5,12 @@ $fa-font-path:"@fortawesome/fontawesome-free/webfonts";
 $min-contrast-ratio: 2.5 !default;
 
 /** Typography **/
-$font-family-base: 'Lato', sans-serif;
-$headings-font-family: 'Patua One', sans-serif;
-$custom-subheadings-font-family: 'Ysabeau', sans-serif;
+$font-family-base: 'Prompt', sans-serif;
+$headings-font-family: 'Prompt', sans-serif;
+$custom-subheadings-font-family: 'Prompt', sans-serif;
 
 /** Bootstrap Colors **/
-$primary: #ff5900;
+$primary: #336699;
 $dark: #212529;
 $success: #038600;
 $light: #fcfcfc;
@@ -25,7 +25,7 @@ $footer-bg-highlight-color: darken($dark, 1%);
 /** Texts **/
 $headings-color: $dark;
 $text-normal: black;
-$text-normal-contrast: white;
+$text-normal-contrast: #919191;
 $text-muted: #757575;
 
 /** Light Shades **/
